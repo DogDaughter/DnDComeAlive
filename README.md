@@ -11,4 +11,3 @@ Cutiemarks are influnced by Profession
 Some of the skin parts are made by me and the others are pulled from https://github.com/MineLittlePony/Community-Skin-Pack/tree/master
 
 Please be sure to thank the team from the github above as well if you use these skins for anything as we wouldnt be here without them! :) 
-Please do note there are more Unicorn skins due to the Magic Color pixel change 
