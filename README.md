@@ -4,6 +4,9 @@ Including Bald Bases, Manes and Tails, Eyes, Race Trigger Pixel, Cutiemarks and 
 
 Ideally Build the Skins in THIS ORDER ->Skin ->Eyes ->Mane and Tails -> Race Trigger Pixel -> Cutiemark -> Clothes
 
+For Children and Teens use their Trigger pixel on the Race Trigger Pixel Layer
+
+
 The Skin and Hair can be Colored ANY COLOR using a Dymap --- but the Eyes and Trigger pixels DO NOT COLOR. Which is why these are all on their own seperate layers.
 
 Cutiemarks are influnced by Profession
