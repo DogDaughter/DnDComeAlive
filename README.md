@@ -1,8 +1,8 @@
 Hello this Github is for primarily storing the Parts to make Mine Little Pony Skins for MCA
 
-Including Bald Bases, Manes and Tails, Eyes, Race Trigger Pixel, Cutiemarks and finally Clothes --- The bases and hair come in white/grey to easily recolor/Lay color ontop for MCA
+Including Bald Bases, Manes and Tails, Eyes, Race Trigger Pixel, Hair Trigger Pixel, Race Body Type, Cutiemarks and finally Clothes --- The bases and hair come in white/grey to easily recolor/Lay color ontop for MCA
 
-Ideally Build the Skins in THIS ORDER ->Skin ->Eyes ->Mane and Tails -> Race Trigger Pixel -> Cutiemark -> Clothes
+Ideally Build the Skins in THIS ORDER ->Skin ->Eyes ->Mane and Tails -> Race Trigger Pixel -> Race Body Type ->Hair Trigger Pixel -> Cutiemark (professions)-> Clothes
 
 
 The Skin and Hair can be Colored ANY COLOR using a Dymap --- but the Eyes and Trigger pixels DO NOT COLOR. Which is why these are all on their own seperate layers.
